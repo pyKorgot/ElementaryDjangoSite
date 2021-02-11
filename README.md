@@ -1,4 +1,2 @@
-#Elementary Django Site
-
+# Elementary Django Site
 A simple portfolio site.
-
